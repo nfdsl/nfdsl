@@ -10,7 +10,7 @@
  
  🔭 Atualmente estou trabalhando **Superintendência de Tecnologia da Informação (STI),UFPE**
  
- 🌱 Atualmente estou aprendendo **Java, React e Python**
+ 🌱 Atualmente estou aprendendo **JavaScript, React e Mysql**
 
  </div>
  
